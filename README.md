@@ -1,2 +1,3 @@
 # bookbot
-For educational (mine) purposes only
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
